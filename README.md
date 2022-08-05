@@ -1,13 +1,14 @@
 # README
 
-Install Angular material
+Install & run
 
 ```bash
-ng add @angular/material
+git clone https://github.com/miguel-coppiloto/angular-grid-responsive.git
+cd angular-grid-responsive
+npm install
+ng serve --open
 ```
 
-Create a component
+See in action (click to view video)
 
-```bash
-ng g c components/grid
-```
+[![See video](https://img.youtube.com/vi/YMUliWLjk_4/0.jpg)](https://www.youtube.com/watch?v=YMUliWLjk_4)
